@@ -30,4 +30,4 @@ TARGET_SPECIFIC_HEADER_PATH := device/samsung/lt02lte/include
 # A new experiment..
 include device/samsung/lt02lte/board/*.mk
 
--include vendor/samsung/lt02lte/BoardConfigVendor.mk
+-include vendor/samsung/lt02ltexx/BoardConfigVendor.mk
